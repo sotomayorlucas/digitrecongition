@@ -1,0 +1,4 @@
+/home/dete/Desktop/Gits/tp2/CMakeFiles/rebuild_cache.dir
+/home/dete/Desktop/Gits/tp2/CMakeFiles/edit_cache.dir
+/home/dete/Desktop/Gits/tp2/CMakeFiles/tp2_pybind.dir
+/home/dete/Desktop/Gits/tp2/CMakeFiles/tp2.dir

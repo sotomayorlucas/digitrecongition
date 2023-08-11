@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -rdynamic CMakeFiles/tp2_pybind.dir/src/main.cpp.o CMakeFiles/tp2_pybind.dir/src/funciones.cpp.o  -o tp2_pybind  -lpybind11::embed 
